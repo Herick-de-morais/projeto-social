@@ -34,3 +34,13 @@ section#telefone{
     background:url(../imagens/iPhoneaa.png) no-repeat;
     
 }
+
+iframe#tela{
+    position: relative;
+    top: 11px;
+    left: 12px;
+    border-radius: 25px;
+    width: 199px;
+    height: 429px;
+
+}
